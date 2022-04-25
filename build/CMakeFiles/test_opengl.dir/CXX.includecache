@@ -9,6 +9,8 @@
 /Users/sunwei25/Downloads/opengl/test/test_gl.cpp
 iostream
 -
+cmath
+-
 GL/glew.h
 -
 GLFW/glfw3.h
